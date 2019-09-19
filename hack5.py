@@ -10,7 +10,6 @@ print(len(d))
 for i in range(no_ofWords):
     b=a.count(a[i])
     print(b,end=" ")
-
     
 
     
